@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
