@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+OpenVino 2024.0.0 (#8726)
