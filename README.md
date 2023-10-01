@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
