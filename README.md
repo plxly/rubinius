@@ -1,1 +1,1 @@
-fix print val map
+Fix Yolo 8.0.206 scale bug (#7821)
