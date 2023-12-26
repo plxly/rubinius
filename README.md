@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Allow Annotator PIL.Image inputs (#8397)
