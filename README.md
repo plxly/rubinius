@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
