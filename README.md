@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Reverse IoU threshold for NMS docs descriptions (#9151)
