@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Improve Docs arguments tables (#8415)
