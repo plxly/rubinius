@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Fixed RTDETR GFLOPs bug (#7309)
