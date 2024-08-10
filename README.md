@@ -1,1 +1,1 @@
-Fix test_mlflow_keep_run_active() (#8868)
+ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
