@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
