@@ -1,1 +1,1 @@
-fix predict with class filter
+Feature: Create HUB Models from CLI or Python Script (#7316)
