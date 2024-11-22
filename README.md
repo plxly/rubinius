@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
